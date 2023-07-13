@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slantup.png-31aef2e5a9330bdcd48f3b1364027f4b.stex"
+path="res://.import/player.png-a1665fc3b4a3dd6c1e330c435d44168b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Terrain/Sprites/slantup.png"
-dest_files=[ "res://.import/slantup.png-31aef2e5a9330bdcd48f3b1364027f4b.stex" ]
+source_file="res://Player/Sprites/player.png"
+dest_files=[ "res://.import/player.png-a1665fc3b4a3dd6c1e330c435d44168b.stex" ]
 
 [params]
 
